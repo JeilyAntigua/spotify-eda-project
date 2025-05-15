@@ -39,4 +39,4 @@ This project performs an exploratory data analysis (EDA) on a dataset of the mos
 
 ## Author
 **Jeily Antigua**  
-[LinkedIn](www.linkedin.com/in/jeilyantigua) | [Portfolio]()
+[LinkedIn](https://www.linkedin.com/in/jeilyantigua) | [Portfolio]()

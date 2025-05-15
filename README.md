@@ -28,6 +28,16 @@ This project performs an exploratory data analysis (EDA) on a dataset of the mos
 
 ## Sample Visuals
 
+### Popularity by Year
+This line chart shows how the average popularity of top Spotify songs evolved from 2010 to 2019. There is a noticeable upward trend, peaking in 2019.
+![Popularity by Year] ()
+
+---
+### Energy vs. Popularity
+This scatter plot explores the relationship between a song's energy level and its popularity score. While there’s a concentration in the upper-right quadrant, the correlation remains weak, suggesting other factors influence song success.
+![Energy vs Popularity](images/energy_vs_popularity.png)
+
+
 
 ---
 
